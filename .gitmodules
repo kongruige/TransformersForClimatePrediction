@@ -1,0 +1,3 @@
+[submodule "ViTAE"]
+	path = ViTAE
+	url = https://github.com/DL-WG/ViTAE.git
